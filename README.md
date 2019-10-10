@@ -1,1 +1,1 @@
-# Jogo-Adivinhar-Numeros
+# Simples jogo de adivinhar números
